@@ -1,8 +1,7 @@
 # Week_3_Activity_7
-
 # Daniel Rumfelt
-# Grand Canyon University
-# CST150-O500 C# Programming 1
+ Grand Canyon University
+ CST150-O500 C# Programming 1
 
 The value for pi can be approximated with the following sequence:
 4 – 4/3 + 4/5 – 4/7 + 4/9 - …
